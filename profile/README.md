@@ -7,6 +7,6 @@
 
 **A terminal multiplexer that shows what your AI agents are doing.**
 
-[Website](https://nerdterm.dev) · [Plugins](https://nerdterm.dev/#/plugins) · [Docs](https://nerdterm.dev/#/docs)
+[Website](https://nerdterm.dev) · [Plugins](https://nerdterm.dev/plugins/) · [Docs](https://nerdterm.dev/docs/)
 
 </div>
